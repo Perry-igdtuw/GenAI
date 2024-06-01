@@ -16,7 +16,7 @@ This repository provides comprehensive examples of using HuggingFace models in t
     - [T5-Flan - Encoder-Decoder (Seq2Seq Model)](#t5-flan---encoder-decoder-seq2seq-model)
     - [Decoder Only Model](#decoder-only-model)
 - [Notes](#notes)
-- [License](#license)
+
 
 ## Requirements
 
@@ -65,6 +65,3 @@ This section explains how to use locally downloaded decoder-only models (such as
 - The examples provided demonstrate how to use both encoder-decoder models and decoder-only models in various scenarios.
 - You can modify the `model_id` parameter to use different models based on your requirements.
 
-## License
-
-This project is licensed under the MIT License.
